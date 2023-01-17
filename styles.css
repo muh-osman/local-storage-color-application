@@ -18,7 +18,7 @@ ul li {
   width: 60px;
   height: 60px;
   border: 2px solid transparent;
-  opacity: 0.4;
+  opacity: 0.2;
   cursor: pointer;
   transition: 0.3s;
 }
